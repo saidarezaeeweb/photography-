@@ -13,4 +13,4 @@
 
 ## Project Preview
 
-![Project Screenshot](screenshot.png)
+![Project Screenshot](screen1.png)
